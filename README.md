@@ -1,7 +1,7 @@
 # menu_program
+#Big Data(Hadoop),AWS CLI,Docker,Web Server
 
 import os
-
 os.system("tput setaf 3")
 print("\t\t\tWelcome in Menu Program!!")
 os.system("tput setaf 7")
