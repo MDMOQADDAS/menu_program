@@ -12,3 +12,9 @@
 ![8](https://user-images.githubusercontent.com/69861558/136696905-745cf08a-1b14-4ff5-8955-b75eb6d60243.jpeg)
 ![9](https://user-images.githubusercontent.com/69861558/136696907-ffe9af0b-c144-4e79-b76b-2b082395842b.jpeg)
 ![10](https://user-images.githubusercontent.com/69861558/136696909-711d6970-2afc-4740-92fc-135452bcf45b.jpeg)
+
+
+### Notes
+
+--> Created Using Python3 <br><br>
+--> Integration of Linux, Big Data(Hadoop), LVM, AWS CLI and much more basic things added
